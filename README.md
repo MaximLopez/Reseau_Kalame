@@ -15,6 +15,7 @@
 * SASS
 * JavaScript
 * GIT
+* MarkDown
 
 ## Who is the author ? 
 <p>This project was made by :</p>
